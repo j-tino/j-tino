@@ -40,6 +40,3 @@ A simple **RESTful API** for note-taking, built with **Java 21** and **Spring Bo
 
 Thanks for visiting!
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=j-tino.j-tino)
-
-

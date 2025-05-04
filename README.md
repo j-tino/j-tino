@@ -1,16 +1,42 @@
-## Hi there 👋
+##  👋 Hi there!
 
-<!--
-**j-tino/j-tino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Joia a full stack developer with a strong interest in building reliable and practical software. I usually work with Java and Spring Boot, and also use frameworks like Angular and React for the frontend. I’ve worked on some data engineering tasks too using Python and SQL to automate processes and organize data.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 Core Stack
+- **Java** (Spring Boot, JPA, REST APIs)
+- **JavaScript/TypeScript** (Angular, React)
+- **Python** (for scripting and automation)
+- **SQL** (PostgreSQL, MySQL)
+
+### 🗄 Databases & Messaging
+- PostgreSQL, MySQL
+- MongoDB, Redis
+- Snowflake
+- Kafka (basic knowledge)
+
+### 📊 Data Engineering
+- Python (Pandas, JSON processing)
+- SQL for data transformation and automation
+- **dbt** for data modeling
+- **Airflow** for workflow orchestration
+- Exploring modern data stack tools
+
+### 📈 Data Visualization
+- **Power BI** for reporting and dashboards
+
+### ⚙️ Tools & Platforms
+- Git, GitHub, Maven, Docker
+- VS Code, IntelliJ IDEA
+- Familiar with AWS (IAM, EC2, S3, Route53, Cloudfront)
+
+## 📁 Featured Projects
+
+### [Note-Taking API](https://github.com/j-tino/advertising-platform)
+A simple **RESTful API** for note-taking, built with **Java 21** and **Spring Boot**. Allows users to create, read, update, and delete notes. Focused on clean architecture and efficient handling of note data.
+
+---
+
+Thanks for visiting!
+

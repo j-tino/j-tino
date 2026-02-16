@@ -6,14 +6,14 @@ I'm Joia a full stack developer with a strong interest in building reliable and 
 
 ### 🧩 Core Stack
 - **Java** (Spring Boot, JPA, REST APIs)
-- **JavaScript/TypeScript** (Angular, React)
+- **JavaScript/TypeScript** (Vue, Angular, React)
 - **Python** (for scripting and automation)
+- **Go** (GIN/Gorm)
 - **SQL** (PostgreSQL, MySQL)
 
 ### 🗄 Databases & Messaging
 - PostgreSQL, MySQL
 - MongoDB, Redis
-- Snowflake
 - Kafka (basic knowledge)
 
 ### 📊 Data Engineering
@@ -35,6 +35,9 @@ I'm Joia a full stack developer with a strong interest in building reliable and 
 
 ### [Note-Taking API](https://github.com/j-tino/advertising-platform)
 A simple **RESTful API** for note-taking, built with **Java 21** and **Spring Boot**. Allows users to create, read, update, and delete notes. Focused on clean architecture and efficient handling of note data.
+
+### [SME E-commerce Backend (Golang)](https://github.com/j-tino/totie-backend)
+Backend implementation in Go for managing products, users, and transactions in an SME e-commerce system.
 
 ---
 

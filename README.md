@@ -33,6 +33,15 @@ I'm Joia a full stack developer with a strong interest in building reliable and 
 
 ## 📁 Featured Projects
 
+### [Library App](https://github.com/j-tino/library-app))
+Demo application using **Spring Boot**, **GraphQL** and **DynamoDB** 
+
+### [Worksmart GenAI](https://github.com/j-tino/worksmart-genai)
+A Spring Boot coding challenge that demonstrates a clean, feature-based architecture for managing work logs, procurement documents, and mock GenAI-powered capabilities. It was build using **Spring Boot** and **Vue.js**
+
+### [Orban Labs](https://github.com/j-tino/orban-labs)
+A two-part technical challenge project built with **Python** and **FastAPI**.
+
 ### [Note-Taking API](https://github.com/j-tino/advertising-platform)
 A simple **RESTful API** for note-taking, built with **Java 21** and **Spring Boot**. Allows users to create, read, update, and delete notes. Focused on clean architecture and efficient handling of note data.
 

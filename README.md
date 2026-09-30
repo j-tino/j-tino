@@ -33,7 +33,7 @@ I'm Joia a full stack developer with a strong interest in building reliable and 
 
 ## 📁 Featured Projects
 
-### [Library App](https://github.com/j-tino/library-app))
+### [Library App](https://github.com/j-tino/library-app)
 Demo application using **Spring Boot**, **GraphQL** and **DynamoDB** 
 
 ### [Worksmart GenAI](https://github.com/j-tino/worksmart-genai)
